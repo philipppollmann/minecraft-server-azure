@@ -4,7 +4,8 @@
   "parameters": {
     "minecraftUser": {
       "type": "string",
-      "metadata": {
+      "defaultValue": "PhilGamesYT",
+       "metadata": {
         "description": "Your Minecraft user name"
       }
     },
@@ -22,6 +23,7 @@
     },
     "dnsNameForPublicIP": {
       "type": "string",
+      "defaultValue": "philgamesyt",
       "metadata": {
         "description": "Put a unique DNS Name for the Public IP used to access the Virtual Machine."
       }
@@ -72,7 +74,7 @@
     },
     "enable-command-block": {
       "type": "string",
-      "defaultValue": "false",
+      "defaultValue": "true",
       "allowedValues": [
         "false",
         "true"
