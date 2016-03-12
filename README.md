@@ -1,6 +1,6 @@
 # Install Minecraft server on an Ubuntu Virtual Machine using the Linux Custom Script Extension
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A//raw.githubusercontent.com%2Fphilipppollmann%2Fminecraft-server-azure%2Fmaster%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fphilipppollmann%2Fminecraft-server-azure%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
